@@ -1,1 +1,1 @@
-create a new file from branch is quickl;
+create a new file from branch is quickl; and simple 
